@@ -1,6 +1,6 @@
 User = int(input("Enter a Pin "))
 pin = 1234
-Balance = 10000
+Balance = 2,00,000
 
 if User == pin:
     print("\n1. Check balance \n2. Deposit \n3. Withdraw \n4. Exit")
