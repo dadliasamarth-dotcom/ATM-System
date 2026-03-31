@@ -14,4 +14,4 @@ This is a simple ATM system built using Python.
    python ATM.py
 
 ## Author
-- Your Name
+Samarth Dadlia
